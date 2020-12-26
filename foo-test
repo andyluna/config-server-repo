@@ -1,0 +1,6 @@
+foo: 
+  name: hello-foo
+  age: 21
+  
+env: test
+label: master
