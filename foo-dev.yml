@@ -3,4 +3,4 @@ foo:
   age: 20
   
 env: dev
-label: master
+label: release
